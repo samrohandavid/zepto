@@ -1,4 +1,4 @@
 chicken
 mutton
 fish
-instamart 50% off
+instamart 30% off
